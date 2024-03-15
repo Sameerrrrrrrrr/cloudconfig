@@ -1,0 +1,16 @@
+          
+build:
+  version: "1.0"
+  
+accounts:
+  message: "Welcome to accounts microservice related apis"
+  contactDetails:
+    name: "Sameer"
+    email: "sameer998sa@gmail.com"
+  onCallSupport:
+    -1234567890  
+
+
+
+
+          
