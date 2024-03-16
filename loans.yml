@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to loans microservice related local APIs "
+  message: "Welcome to loans microservice related local webhooks APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@micro.com"
